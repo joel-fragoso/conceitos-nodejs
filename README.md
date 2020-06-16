@@ -4,7 +4,7 @@
   Desafio 02: Conceitos do Node.js
 </h3>
 
-<p> align="center">
+<p align="center">
   <blockquote align="center">“Não espere para plantar, apenas tenha paciência para colher”!</blockquote>
 </p>
 
