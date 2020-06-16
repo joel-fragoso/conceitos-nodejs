@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <blockquote align="center">“Não espere para plantar, apenas tenha paciência para colher”!</blockquote>
+  <blockquote>“Não espere para plantar, apenas tenha paciência para colher”!</blockquote>
 </p>
 
 <p align="center">
